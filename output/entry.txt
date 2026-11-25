@@ -1,0 +1,1 @@
+Sorry, I hallucinated the fix so confidently the tests believed me too.
